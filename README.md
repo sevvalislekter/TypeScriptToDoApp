@@ -1,4 +1,4 @@
-# TypeScriptToDoApp
+
 # TypeScriptToDoApp
 
 TypeScript ile yazılmış basit bir Todo uygulaması. Bu uygulama, kullanıcıların görevlerini eklemelerini, düzenlemelerini, silmelerini ve tamamlanma durumlarını güncellemelerini sağlar.
